@@ -11,5 +11,5 @@ func main() {
 	fmt.Printf("\n")
 	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
 	fmt.Printf("\n")
-	Bubba()
+	bubba.Bubba()
 }
